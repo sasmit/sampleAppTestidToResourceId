@@ -1,5 +1,6 @@
 # sampleAppTestidToResourceId
 Sample react-native app to verify testID replacement to resource-id while test automation on android device. Please use UI Automator Viewer tool to test this feature.
+changes to react-native master at https://github.com/facebook/react-native/pull/29610
 
 Verified below componets with testID and accessibilityLabel props.
 
@@ -24,3 +25,7 @@ C:\Users\xyz\AppData\Local\Android\Sdk\tools\bin (in my windows machine this is 
 
 screenshot attached 
 ![image](https://user-images.githubusercontent.com/1374490/115840898-d0e9b380-a439-11eb-8c3c-399188f8724c.png)
+
+**NOTE:**
+
+TextInput component does not work.
