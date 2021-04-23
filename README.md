@@ -1,5 +1,5 @@
 # sampleAppTestidToResourceId
-Same react-native app to test testID replacement to resource-id while UI automation on android device. Please use UI Automator Viewer tool to test this feature.
+Sample react-native app to verify testID replacement to resource-id while test automation on android device. Please use UI Automator Viewer tool to test this feature.
 
 Verified below componets with testID and accessibilityLabel props.
 
